@@ -1,0 +1,19 @@
+# ninja log v5
+1509	1640	1764599073566305786	/Users/macbook/Documents/UnityLearnProject/CarShootingAction/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/704d13dq/obj/arm64-v8a/libgame.so	7c8b5cb22524a7c8
+0	1509	1764599073434792558	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	62df6a2ba047a5d5
+1	1404	1764599073329969390	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b1b16e9a4bba44ae
+1	1216	1764599073142577424	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7abdfb4b5747bdfa
+0	1203	1764599073129324810	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cbe665397db6911c
+1	1170	1764599073095665568	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b22716fd048466b
+0	1152	1764599073076694227	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ebd73fa5ef1bc394
+0	1145	1764599073070338169	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	663714f276c3f54f
+1	1124	1764599073046012307	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9dc6b1424b9ba96a
+4	1538	1764600575676229828	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	663714f276c3f54f
+4	1539	1764600575673106632	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	ebd73fa5ef1bc394
+4	1540	1764600575669026315	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9dc6b1424b9ba96a
+5	1546	1764600575684771544	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	b22716fd048466b
+4	1563	1764600575703959177	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	cbe665397db6911c
+5	1620	1764600575760874034	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7abdfb4b5747bdfa
+4	1742	1764600575882226095	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b1b16e9a4bba44ae
+3	1816	1764600575956899924	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	62df6a2ba047a5d5
+1816	2027	1764600576167920630	/Users/macbook/Documents/UnityLearnProject/CarShootingAction/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/704d13dq/obj/arm64-v8a/libgame.so	7c8b5cb22524a7c8
